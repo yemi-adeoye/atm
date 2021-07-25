@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/atm/static/css/main.8632b302.chunk.css",
+    "main.js": "/atm/static/js/main.7ab7fb38.chunk.js",
+    "main.js.map": "/atm/static/js/main.7ab7fb38.chunk.js.map",
+    "runtime-main.js": "/atm/static/js/runtime-main.fcc0beeb.js",
+    "runtime-main.js.map": "/atm/static/js/runtime-main.fcc0beeb.js.map",
+    "static/js/2.cfef8157.chunk.js": "/atm/static/js/2.cfef8157.chunk.js",
+    "static/js/2.cfef8157.chunk.js.map": "/atm/static/js/2.cfef8157.chunk.js.map",
+    "static/js/3.3f0cbc67.chunk.js": "/atm/static/js/3.3f0cbc67.chunk.js",
+    "static/js/3.3f0cbc67.chunk.js.map": "/atm/static/js/3.3f0cbc67.chunk.js.map",
+    "index.html": "/atm/index.html",
+    "static/css/main.8632b302.chunk.css.map": "/atm/static/css/main.8632b302.chunk.css.map",
+    "static/js/2.cfef8157.chunk.js.LICENSE.txt": "/atm/static/js/2.cfef8157.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcc0beeb.js",
+    "static/js/2.cfef8157.chunk.js",
+    "static/css/main.8632b302.chunk.css",
+    "static/js/main.7ab7fb38.chunk.js"
+  ]
+}
